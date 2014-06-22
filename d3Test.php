@@ -14,6 +14,6 @@
   <svg class="circle"></svg>
   
   <!-- load your scripts at the end to prevent slow loading -->
-  <script type="text/javascript" src="http://localhost/js/d3js.js"></script>
+  <script type="text/javascript" src="http://localhost/pages/d3/d3js.js"></script>
 </body>
 </html>
